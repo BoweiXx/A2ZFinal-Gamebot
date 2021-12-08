@@ -1,0 +1,20 @@
+{
+  "name": "mlfinal",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@discordjs/rest": "^0.1.0-canary.0",
+    "@google-cloud/dialogflow": "^4.5.0",
+    "dialogflow": "^4.0.3",
+    "discord.js": "^13.3.1",
+    "dotenv": "^10.0.0",
+    "nodemon": "^2.0.15",
+    "uuid": "^8.3.2"
+  }
+}
